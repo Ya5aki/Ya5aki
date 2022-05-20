@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning cryptography and security protocols
 - 💞️ I’m looking to collaborate on Flipper Zero firmware app development
 - 📫 How to reach me:
-
         📧 ya5aki@proton.me
-        
-        🐦 https://twitter.com/Ya5aki
 
 <!---
 Ya5aki/Ya5aki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
