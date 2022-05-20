@@ -6,7 +6,7 @@
 
         📧 ya5aki@proton.me
         
-        🐦 [@ya5aki](https://twitter.com/Ya5aki)
+        🐦 https://twitter.com/Ya5aki
 
 <!---
 Ya5aki/Ya5aki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
